@@ -8,7 +8,7 @@ Im a passionate front-end developer with 2 years of experience in crafting engag
 
 * 🌍  I'm based in Valencia, Spain
 * ✉️  You can contact me at [tonigadeamorant@gmail.com](mailto:tonigadeamorant@gmail.com)
-* 🚀  I'm currently working on [flowww](http://www.flowww.com/en)
+* 🚀  I'm currently working on [flowww](http://www.flowww.com/en) as front leader
 * 🧠  I'm learning Design Patterns
 * ⚡  Currently reading Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript
 
